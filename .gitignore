@@ -1,0 +1,14 @@
+# Captured/derived images and analysis output — contains real photos and
+# license-plate data, must never be pushed to the repository.
+captures/
+archive/
+snapshots/
+analysis_log.txt
+ai_analysis_log.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+objdetect_venv/
